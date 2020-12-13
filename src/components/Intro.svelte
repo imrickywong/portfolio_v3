@@ -5,7 +5,7 @@
   import NoScriptMsg from './NoScriptMsg.svelte';
   import { TIMEOUTS } from '../utils';
 
-  const intro = `Hi, it's Sandrina`;
+  const intro = `Hi, it's Ricky`;
   let hasntScrollYet = true
 
   onMount(() => {

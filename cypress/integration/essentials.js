@@ -39,7 +39,7 @@ describe('Essentials', () => {
     cy.get('body').should('have.class', 'jsMotionReduced jsMotionInitial');
 
     cy.get('#intro').within(() => {
-      cy.get('h1').should('contain', "Hi, it's Sandrina");
+      cy.get('h1').should('contain', "Hi, it's Ricky");
       cy.get('p').should(
         'contain',
         "I'm a UX Engineer who helps to turn ideas into accessible experiences."
