@@ -303,33 +303,16 @@
     <span class="sliding">
       <span class="slidingRotate">
         <span class="headerSlide">
-          <span class="headerBlock">Uff,</span>
-          you came so far...
+          <span class="headerBlock">啊哈,</span>
+          你都看到这里来里...
         </span>
       </span>
     </span>
-    <span class="headerFixed">Here's my journey</span>
+    <span class="headerFixed">这里是我的经历</span>
   </h2>
   <div class="text">
     <p class="p">
-      Since 2019 I've been working fully remote, which is amazing to say the least.
-      Recently I joined
-      <a class="u-link" rel="noreferrer" target="_blank" href="https://remote.com/">Remote</a>.
-      Previously I spent a year helping to bring an open source idea to life -
-      <a class="u-link" rel="noreferrer" target="_blank" href="https://github.com/okTurtles/group-income-simple">Group Income</a>.
-      Back to office times, I was a Senior UI Engineer at
-      <a class="u-link" rel="noreferrer" target="_blank" href="https://www.farfetch.com">Farfetch</a>
-      for a few years.
-    </p>
-    <p class="p">
-      From time to time, I also challenge myself to write articles, give talks and <a class="u-link" href={workshopUrl} target="_blank">workshops</a> about some topic I'm really into.
-    </p>
-    <p class="p">
-      Create humanly accessible experiences within digital environments has been my meta-goal since I can remember.
-      In my free time I have fun
-      <a class="u-link" rel="noreferrer" target="_blank" href={CODEPEN_URL} on:click={() => trackClick('codepen_journey')}>pushing pixels around</a>
-      and
-      <a class="u-link" rel="noreferrer" target="_blank" href={TWITTER_URL} on:click={() => trackClick('twitter_journey')}>share ideas</a> with the community.
+      xxxx 年毕业以来.... 哈哈哈卖个关子先。以后补充。
     </p>
     <!--
       [May be useful in the future. I hope not.]

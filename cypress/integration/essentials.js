@@ -42,7 +42,7 @@ describe('Essentials', () => {
       cy.get('h1').should('contain', "Hi, it's Ricky");
       cy.get('p').should(
         'contain',
-        "I'm a UX Engineer who helps to turn ideas into accessible experiences."
+        "I'm a Frontend Developer who helps to turn ideas into accessible experiences."
       );
     });
 

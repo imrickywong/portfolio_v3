@@ -584,11 +584,11 @@
     <h3 class="f-title title" data-part="WOLF" bind:this={elWolf} style={styleClip.WOLF}>
       <span class="title-part">
         <span class="title-line">From a</span>
-        <span class="title-line">solo act</span>
+        <span class="title-line">team member</span>
       </span>
       <span class="title-part">
         <span class="title-line">to a</span>
-        <span class="title-line">team player</span>
+        <span class="title-line">project owner</span>
       </span>
     </h3>
     <p class="pBox {getBoxClass('WOLF')}">

@@ -4,17 +4,13 @@
 
   const contacts = [
     {
-      name: 'dev.to',
-      link: 'http://dev.to/a_sandrina_p',
+      name: 'github',
+      link: 'https://github.com/imrickywong',
 
     },
     {
-      name: 'codepen',
-      link: 'http://codepen.io/sandrina-p',
-    },
-    {
-      name: 'twitter',
-      link: 'http://twitter.com/a_sandrina_p',
+      name: 'zhihu',
+      link: 'https://www.zhihu.com/people/rickywong/',
     },
     {
       name: 'e-mail',

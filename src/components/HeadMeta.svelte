@@ -10,7 +10,7 @@
   
   <meta name="theme-color" content="#9f76ff" />
       
-  <meta name="keywords" content="UX Engineer, frontend developer, React, CSS, accessibility, usability">
+  <meta name="keywords" content="Frontend Developer, React, CSS, accessibility, usability">
   <meta name="description" content={description}>
   
   <meta name="image" content={ coverUrl }>
