@@ -353,10 +353,10 @@
   <div class="content">
     <header class="header">
       <h2 class="f-title headerTitle" data-io="heading">
-        <span class="headerTitle-part">I've been</span>
-        <span class="headerTitle-part">sharing</span>
+        <span class="headerTitle-part">我一直在</span>
+        <span class="headerTitle-part">分享</span>
       </h2>
-      <p class="headerDescription">As a self-taught developer, giving back to the community is a joy!</p>
+      <p class="headerDescription">作为一个在开源社区自学驱动的工程师, 回馈社区是一种乐趣!</p>
     </header>
     <ul class="cardList u-carousel" data-cy="cards">
       {#each words as { title, date, places }, index}

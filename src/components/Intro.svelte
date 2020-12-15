@@ -5,7 +5,7 @@
   import NoScriptMsg from './NoScriptMsg.svelte';
   import { TIMEOUTS } from '../utils';
 
-  const intro = `Hi, it's Ricky`;
+  const intro = `Hi, 这里是 Ricky`;
   let hasntScrollYet = true
 
   onMount(() => {
@@ -146,7 +146,7 @@
       {/each}
     </h1>
     <p class="text">
-      I'm a Frontend Developer who helps to turn ideas into accessible experiences.
+      我是一名前端工程师，致力于将创意转换为可触达的 Web 用户体验。
     </p>
     <NoScriptMsg />
   </div>

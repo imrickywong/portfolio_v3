@@ -1,29 +1,27 @@
 export default [
   {
-    title: 'Striking a Balance Between Native and Custom Select Elements',
-    date: 'Jun 20',
+    title: 'This 陷阱与原理',
+    date: 'Dec 20',
     places: [
       {
         id: 'sel_smash',
         type: 'article',
-        where: 'CSS-Tricks',
+        where: 'Gitbooks',
         svg: 'css',
-        link:
-          'https://css-tricks.com/striking-a-balance-between-native-and-custom-select-elements/',
+        link: 'https://mind.ricky.moe/blog/trap-and-principle-of-this',
       },
     ],
   },
   {
-    title: 'How front-end developers can empower designers’ work',
+    title: 'Jest 内部原理剖析',
     date: 'Oct 19',
     places: [
       {
         id: 'fe_smash',
         type: 'article',
-        where: 'Smashing Magazine',
+        where: 'Gitbooks',
         svg: 'smash',
-        link:
-          'https://www.smashingmagazine.com/2019/10/frontend-developers-empower-designers-work/',
+        link: 'https://mind.ricky.moe/blog/how-does-jest-work-inside',
       },
       {
         id: 'fe_zine',
@@ -34,50 +32,29 @@ export default [
       },
     ],
   },
-  // {
-  //   title: 'Using custom properties to wrangle variations in keyframe animations',
-  //   date: 'Sep 19',
-  //   places: [
-  //     {
-  //       id: 'cssvar_tricks',
-  //       type: 'article',
-  //       where: 'CSS-Tricks',
-  //       svg: 'css',
-  //       link:
-  //         'https://css-tricks.com/using-custom-properties-to-wrangle-variations-in-keyframe-animations/',
-  //     },
-  //   ],
-  // },
   {
-    title: 'Learning hash tables with drawings',
+    title: '理解时间戳 timestamp 和时区 timezone',
     date: 'Aug 19',
     places: [
       {
         id: 'hash_zine',
         type: 'zine',
-        where: 'Dev.to',
+        where: 'Gitbook',
         svg: 'dev',
-        link: 'https://dev.to/a_sandrina_p/learning-hash-tables-with-drawings-99o',
+        link: 'https://mind.ricky.moe/blog/timestamp-timezone',
       },
     ],
   },
   {
-    title: 'Bringing a healthy code review mindset to your team',
+    title: 'React Hooks系列解析',
     date: 'Jun 19',
     places: [
       {
         id: 'cr_smash',
         type: 'article',
-        where: 'Smashing Magazine',
+        where: 'Gitbook',
         svg: 'smash',
-        link: 'https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/',
-      },
-      {
-        id: 'cr_ruhrjs',
-        type: 'talk',
-        where: 'RuhrJS 2019',
-        svg: 'video',
-        link: 'https://www.youtube.com/watch?v=oT5g6LYVnqk',
+        link: 'https://mind.ricky.moe/framework/react-hooks',
       },
     ],
   },

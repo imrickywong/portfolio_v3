@@ -127,10 +127,10 @@
   class:isHidden={hasScrolled || ($strGeneral.isReady && !$matchMq.lg)}>
   <span class="tipText">
     <span class="tipTextStatus asLoading" class:isActive={!$strGeneral.isReady}>
-      Loading...
+      加载中...
     </span>
     <span class="tipTextStatus" class:isActive={$strGeneral.isReady}>
-      Start scrolling
+      开始滚动
     </span>
   </span>
 </span>

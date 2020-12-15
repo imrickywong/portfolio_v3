@@ -582,10 +582,10 @@
 
   <div class="card" bind:this={ elCard } class:isCardOnView>
     <div class="cardChild" on:focusin={handleKeyboardFocus}>
-      <p class="text">Feel free to say hi!</p>
+      <p class="text">有兴趣的话，非常欢迎联系沟通!</p>
       <p class="text">
-        <span class="textLine">It's easy to find me around,</span>
-        <span class="textLine">specially if you are a web lover too.</span>
+        <span class="textLine">在这个 social media 时代，如果你也是一个互联网爱好者，</span>
+        <span class="textLine">你可以非常容易联系到我</span>
       </p>
       <Contacts />
     </div>
