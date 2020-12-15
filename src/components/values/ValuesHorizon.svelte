@@ -584,7 +584,7 @@
     <h3 class="f-title title" data-part="WOLF" bind:this={elWolf} style={styleClip.WOLF}>
       <span class="title-part">
         <span class="title-line">From a</span>
-        <span class="title-line">team member</span>
+        <span class="title-line">problem solver</span>
       </span>
       <span class="title-part">
         <span class="title-line">to a</span>
